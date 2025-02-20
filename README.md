@@ -53,6 +53,34 @@
 <h2>Bitget vs. Other Exchanges (Fee Discounts & Bonuses Comparison)</h2>
 <p>Bitget's referral program offers competitive advantages over other platforms like <strong>Binance, Bybit, and MEXC</strong>. While Binance and Bybit provide bonuses, Bitget’s 50% fee discount and generous $6200 USDT bonus make it an attractive choice for traders looking to save on costs and maximize earnings.</p>
 
+<table border="1">
+    <tr>
+        <th>Exchange</th>
+        <th>Referral Bonus</th>
+        <th>Fee Discount</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/BingX-Referral-Code/">BingX</a></td>
+        <td>Up to $5152 USDT</td>
+        <td>50% Off</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Bybit-Referral-Code/">Bybit</a></td>
+        <td>Up to $30,000 USDT</td>
+        <td>50% Off</td>
+    </tr>
+    <tr>
+        <td>Bitget</td>
+        <td>Up to $6200 USDT</td>
+        <td>50% Off</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/OKX-Referral-Code/">OKX</a></td>
+        <td>Up to $10,000 USDT</td>
+        <td>50% Off</td>
+    </tr>
+</table>
+
 <h2>Frequently Asked Questions (FAQs)</h2>
 <h3>Is Bitget safe to use?</h3>
 <p>Yes, Bitget employs high-level security measures, including multi-signature wallets and cold storage.</p>
