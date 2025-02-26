@@ -4,7 +4,7 @@
 
 <h2>How to Use the Bitget Referral Code (frbm)</h2>
 <ol>
-    <li><strong>Visit the Bitget Website</strong>: Go to the official Bitget sign-up page.</li>
+    <li><strong>Visit the Bitget Website</strong>: Go to the <a href="https://partner.bitget.com/bg/78C9LH" target="_blank">official Bitget sign-up page</a></strong>.</li>
     <li><strong>Create an Account</strong>: Enter your email or mobile number and create a secure password.</li>
     <li><strong>Enter the Referral Code</strong>: In the referral code field, input <strong>frbm</strong>.</li>
     <li><strong>Complete the Registration</strong>: Verify your account via email or SMS.</li>
@@ -60,12 +60,12 @@
         <th>Fee Discount</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/BingX-Referral-Code/">BingX</a></td>
+        <td><a href="https://partner.bitget.com/bg/78C9LH">BingX</a></td>
         <td>Up to $5152 USDT</td>
         <td>50% Off</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Bybit-Referral-Code/">Bybit</a></td>
+        <td><a href="https://partner.bitget.com/bg/78C9LH">Bybit</a></td>
         <td>Up to $30,000 USDT</td>
         <td>50% Off</td>
     </tr>
@@ -75,7 +75,7 @@
         <td>50% Off</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/OKX-Referral-Code/">OKX</a></td>
+        <td><a href="https://partner.bitget.com/bg/78C9LH">OKX</a></td>
         <td>Up to $10,000 USDT</td>
         <td>50% Off</td>
     </tr>
